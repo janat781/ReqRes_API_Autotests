@@ -44,6 +44,3 @@ allure-results/
 
 # Config with secrets
 src/main/resources/config.properties
-
-### Allure Report ###
-allure-report/

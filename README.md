@@ -142,11 +142,11 @@ API response details
 
 #### Test Suites
 
-![Allure Suites](allure-report/suites.png)
+![Allure suites](allure-report/suites.png)
 
 #### Graphs
 
-![Allure Graphs](allure-report/graphs.png)
+![Allure graphs](allure-report/graphs.png)
 
 ---
 
